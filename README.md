@@ -1,8 +1,4 @@
-# CyberLogin-Defender
-Python-based cybersecurity demo game with login simulation, log analysis, and data visualization.
-
 # CyberLogin Defender
-
 CyberLogin Defender is a **Python-based cybersecurity demo game** that demonstrates basic login security and data analysis techniques.
 
 ## Features
