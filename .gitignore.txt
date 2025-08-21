@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Python virtual environment
+.env/
+venv/
+
+# Executable files
+*.exe
+*.dll
+
+# Logs
+*.log
+
+# VS/IDE files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.pyproj
